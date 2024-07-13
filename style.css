@@ -49,6 +49,7 @@ p, .section p {
   padding: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
+.gallery-item {margin: 0;}
 .service h3, .contact-form label {
   margin-top: 0;
 }
